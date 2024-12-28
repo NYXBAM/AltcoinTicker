@@ -218,6 +218,7 @@ def update_btc_dominance():
         previous_dominance = current_dominance
         save_data_to_file()
 
+
 @app.route("/api/data")
 def api_data():
     """
