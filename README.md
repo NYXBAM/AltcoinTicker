@@ -35,6 +35,42 @@ pandas and numpy for data manipulation
 requests for API interactions
 Multithreading: Background tasks for continuous updates.
 
+
+TO DO:
+soon...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 License
 This project is licensed under the MIT License.
 
