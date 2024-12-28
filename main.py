@@ -225,6 +225,7 @@ def api_data():
     """
     return jsonify(data)
 
+
 @app.route("/")
 def index():
     """
